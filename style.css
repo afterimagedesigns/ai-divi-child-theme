@@ -1,0 +1,19 @@
+/*
+ Theme Name:    Divi Child Theme
+ Theme URI:      
+ Description:    Divi Child Theme
+ Author:         Divi Child Theme
+ Author URI:     
+ Template:       Divi
+ Version:        1.7
+*/
+
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+.inherit-font > * {
+	font-family: inherit;
+	color: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+}
