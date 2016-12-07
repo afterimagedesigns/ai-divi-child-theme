@@ -35,9 +35,9 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					if ( false !== et_get_option( 'show_footer_social_icons', true ) ) {
 						get_template_part( 'includes/social_icons', 'footer' );
 					}
-				?>
 
-						<p id="footer-info">Designed by <a title="<?php  echo get_bloginfo( 'name' ); ?>" href="<?php  echo get_bloginfo( 'url' ); ?>"><?php  echo get_bloginfo( 'name' ); ?></a></p>
+					echo et_get_footer_credits();
+				?>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
