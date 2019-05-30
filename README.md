@@ -19,7 +19,7 @@ Please replace child theme name and directory name depends on what website you a
 - Add Backup buddy
 
 ----------
-05-30-2016
+05-30-2019
 ----------
 
 - Add [site_year] shortcode, dynamically get's the year
