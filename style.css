@@ -1,19 +1,37 @@
 /*
- Theme Name:    Divi Child Theme
+ Theme Name:     Divi Child Theme
  Theme URI:      
- Description:    Divi Child Theme
- Author:         Divi Child Theme
+ Description:    A child theme of Divi Theme
+ Author:         Elegant Themes
  Author URI:     
  Template:       Divi
- Version:        1.7
+ Version:        2.1
 */
 
- 
-/* =Theme customization starts here
-------------------------------------------------------- */
-.inherit-font > * {
-	font-family: inherit;
-	color: inherit;
-	font-weight: inherit;
-	font-size: inherit;
+
+/****************************************
+*** Theme customization starts below ***
+*****************************************/
+
+
+
+
+
+/****************************************
+**** Responsiveness CSS starts below ****
+*****************************************/
+
+/* Default Divi Tablet breakpoint */
+@media screen and (max-width: 980px) {
+	
+}
+
+/* Default Divi Mobile breakpoint */
+@media screen and (max-width: 767px) {
+	
+}
+
+/* Default Divi Desktop breakpoint */
+@media screen and (min-width: 981px) {
+	
 }
