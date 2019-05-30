@@ -21,3 +21,9 @@ Please replace child theme name and directory name depends on what website you a
 ----------
 05-30-2016
 ----------
+
+- Add [site_year] shortcode, dynamically get's the year
+- Update the header and footer to Divi's Version: 3.23.3 files
+- Add Font Awesome 4.7 and 5 on Theme Customizer
+- Add /assets/ folder for the custom scripts
+- Add /includes/ folder with array helper for custom shortcodes
