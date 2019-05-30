@@ -17,3 +17,7 @@ Please replace child theme name and directory name depends on what website you a
 
 - Remove BackUPWordpress
 - Add Backup buddy
+
+----------
+05-30-2016
+----------
