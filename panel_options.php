@@ -16,14 +16,7 @@ $enable_options = array (
 			"id" => $shortname."_show_youtube_icon",
 			"type" => "checkbox",
 			"std" => "off",
-			"desc" => esc_html__( "Here you can choose to display the Youtube Icon. ", $themename ) ),
-		
-	array( 
-			"name" => "Show Instagram Icon",
-			"id" => $shortname."_show_instagram_icon",
-			"type" => "checkbox",
-			"std" => "off",
-			"desc" => esc_html__( "Here you can choose to display the Instagram Icon. ", $themename ) ),
+			"desc" => esc_html__( "Here you can choose to display the Youtube Icon. ", $themename ) )
            
 );
 foreach( $options as $index => $value ) {
@@ -50,17 +43,8 @@ $value_options = array (
            "std" => "#",
            "type" => "text",
            "validation_type" => "url",
-		   "desc" => esc_html__( "Enter the URL of your LinkedIn Profile. ", $themename ) ),
+		   "desc" => esc_html__( "Enter the URL of your LinkedIn Profile. ", $themename ) )
 	
-	array( "name" => esc_html__( "Instagram Profile Url", $themename ),
-           "id" => $shortname."_instagram_url",
-           "std" => "#",
-           "type" => "text",
-           "validation_type" => "url",
-		   "desc" => esc_html__( "Enter the URL of your Instagram Profile. ", $themename ) )
-	
-	
-
 		   
 );
 foreach( $options as $index => $value ) {
