@@ -36,3 +36,12 @@ Please replace child theme name and directory name depends on what website you a
 - Add /includes/social_icons.php folder to add more social icons
 - Add /panel_options.php file to display icons in Divi Theme options
 - Update function.php file to load the icons options dynamically 
+
+
+----------
+07-25-2019
+----------
+
+- Update the code in panel_options.php to fix the bug on social icons
+
+
