@@ -50,3 +50,5 @@ Please replace child theme name and directory name depends on what website you a
 
 - Update the header and footer to Divi's Version: 3.26.6 files
 - Update the Backup Buddy plugin on the child theme
+- Include a function to install the Backup Buddy once the theme is activated
+- Pre-included the latest Backup Buddy on the child theme
