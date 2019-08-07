@@ -43,6 +43,10 @@ Please replace child theme name and directory name depends on what website you a
 ----------
 
 - Update the code in panel_options.php to fix the bug on social icons
+
+----------
+08-07-2019
+----------
+
+- Update the header and footer to Divi's Version: 3.26.6 files
 - Update the Backup Buddy plugin on the child theme
-
-
