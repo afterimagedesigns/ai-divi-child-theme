@@ -43,5 +43,6 @@ Please replace child theme name and directory name depends on what website you a
 ----------
 
 - Update the code in panel_options.php to fix the bug on social icons
+- Update the Backup Buddy plugin on the child theme
 
 
