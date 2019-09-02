@@ -52,3 +52,10 @@ Please replace child theme name and directory name depends on what website you a
 - Update the Backup Buddy plugin on the child theme
 - Include a function to install the Backup Buddy once the theme is activated
 - Pre-included the latest Backup Buddy on the child theme
+
+----------
+08-07-2019
+----------
+
+- Update the header and footer to Divi's Version: 3.27.4 files
+- Remove elegant-theme-updater.zip
