@@ -54,7 +54,7 @@ Please replace child theme name and directory name depends on what website you a
 - Pre-included the latest Backup Buddy on the child theme
 
 ----------
-08-07-2019
+09-02-2019
 ----------
 
 - Update the header and footer to Divi's Version: 3.27.4 files
