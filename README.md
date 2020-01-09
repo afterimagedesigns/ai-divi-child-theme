@@ -3,35 +3,20 @@
 Please replace child theme name and directory name depends on what website you are using this. Thanks!
 
 ----------
-09-02-2019
+11-23-2016
 ----------
 
-- Update the header and footer to Divi's Version: 3.27.4 files
-- Remove elegant-theme-updater.zip
+- Remove duplicate style.css (base on Jona's Report)
+- Add inherit font class (.inherit-font) we can add this to control font of h2, h3, h4, h5 in text module
+- Allow user to upload SVG file
+
 
 ----------
-08-07-2019
+12-06-2016
 ----------
 
-- Update the header and footer to Divi's Version: 3.26.6 files
-- Update the Backup Buddy plugin on the child theme
-- Include a function to install the Backup Buddy once the theme is activated
-- Pre-included the latest Backup Buddy on the child theme
-
-----------
-07-25-2019
-----------
-
-- Update the code in panel_options.php to fix the bug on social icons
-
-----------
-06-06-2019
-----------
-
-- Add additional social media icons in Divi
-- Add /includes/social_icons.php folder to add more social icons
-- Add /panel_options.php file to display icons in Divi Theme options
-- Update function.php file to load the icons options dynamically 
+- Remove BackUPWordpress
+- Add Backup buddy
 
 ----------
 05-30-2019
@@ -44,16 +29,41 @@ Please replace child theme name and directory name depends on what website you a
 - Add /includes/ folder with array helper for custom shortcodes
 
 ----------
-12-06-2016
+06-06-2019
 ----------
 
-- Remove BackUPWordpress
-- Add Backup buddy
+- Add additional social media icons in Divi
+- Add /includes/social_icons.php folder to add more social icons
+- Add /panel_options.php file to display icons in Divi Theme options
+- Update function.php file to load the icons options dynamically 
+
 
 ----------
-11-23-2016
+07-25-2019
 ----------
 
-- Remove duplicate style.css (base on Jona's Report)
-- Add inherit font class (.inherit-font) we can add this to control font of h2, h3, h4, h5 in text module
-- Allow user to upload SVG file
+- Update the code in panel_options.php to fix the bug on social icons
+
+----------
+08-07-2019
+----------
+
+- Update the header and footer to Divi's Version: 3.26.6 files
+- Update the Backup Buddy plugin on the child theme
+- Include a function to install the Backup Buddy once the theme is activated
+- Pre-included the latest Backup Buddy on the child theme
+
+----------
+09-02-2019
+----------
+
+- Update the header and footer to Divi's Version: 3.27.4 files
+- Remove elegant-theme-updater.zip
+
+----------
+01-09-2020
+----------
+
+- Check the Child theme compatibility on version 4.0.11
+- Update the header and footer to Divi's Version: 4.0.11
+- Add theme-header.php and theme-footer.php on the child theme
